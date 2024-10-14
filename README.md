@@ -12,60 +12,55 @@
 - 📫 **How to reach me:** tranbinhminh211002@gmail.com
 - ⚡ **Fun fact:** Smashing shuttlecocks on the court, smashing bugs in the code!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://fb.com/tr.minh21" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tr.minh21" height="30" width="40" />
-  </a>
-</p>
+<h3 align="left">⚙️ Technologies & Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-</p>
+- **Languages:**
+  - ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranbinhminh2110&show_icons=true&locale=en&layout=compact" alt="tranbinhminh2110" />
-</p>
+- **Frameworks:**
+  - ![ASP.NET](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tranbinhminh2110&show_icons=true&locale=en" alt="tranbinhminh2110" />
-</p>
+- **Databases:**
+  - ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+- **APIs:**
+  - ![RESTful](https://img.shields.io/badge/-RESTful-00BFFF?style=flat-square)
+
+- **Frontend:**
+  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+  - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+    
+- **Other Skills:**
+  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+  - ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) 
+  - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) 
+  - ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+<h3 align="left">⚙️ Activities:</h3>
+
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranbinhminh2110&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=10&custom_title=Top%20Languages" alt="tranbinhminh2110" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=tranbinhminh2110&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Activity" alt="tranbinhminh2110" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h3 align="left">⚙️ Certificates:</h3>
+
+<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) Software Development Lifecycle](https://coursera.org/share/6e60d79fabc8754d53394e5bda89ec90)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) User Experience Research and Design](https://coursera.org/share/da31b6fd3f90326a084ed67875fe98b8)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) Project Management Principles and Practices](https://coursera.org/share/c45867a36da650a6c9b3af60872a9ded)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) Web Design for Everybody: Basics of Web Development & Coding](https://coursera.org/share/37aacb5c5b4437a0e13422af947cc644)
