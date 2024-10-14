@@ -12,7 +12,7 @@
 - 📫 **How to reach me:** tranbinhminh211002@gmail.com
 - ⚡ **Fun fact:** Smashing shuttlecocks on the court, smashing bugs in the code!
 
-<h3 align="left">⚙️ Technologies & Tools:</h3>
+<h3 align="left">💻 Technologies & Tools:</h3>
 
 - **Languages:**
   - ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
@@ -40,7 +40,7 @@
   - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) 
   - ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-<h3 align="left">⚙️ Activities:</h3>
+<h3 align="left">🔥 Activities:</h3>
 
 <table style="width:100%;">
   <tr>
@@ -56,9 +56,7 @@
   </tr>
 </table>
 
-<h3 align="left">⚙️ Certificates:</h3>
-
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+<h3 align="left">🎓 Certificates:</h3>
 
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) Software Development Lifecycle](https://coursera.org/share/6e60d79fabc8754d53394e5bda89ec90)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) User Experience Research and Design](https://coursera.org/share/da31b6fd3f90326a084ed67875fe98b8)
