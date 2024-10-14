@@ -4,6 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tranbinhminh2110&label=Profile%20views&color=0e75b6&style=flat" alt="tranbinhminh2110" /> </p>
 
+- 🌱 I’m currently learning **API design and diving deeper into database optimization for backend development!**
+
+- 💬 Ask me about **C sharp and related things**
+
+- 📫 How to reach me **tranbinhminh211002@gmail.com**
+
+- ⚡ Fun fact **Smashing shuttlecocks on the court, smashing bugs in the code!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/tr.minh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tr.minh21" height="30" width="40" /></a>
@@ -15,5 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranbinhminh2110&show_icons=true&locale=en&layout=compact" alt="tranbinhminh2110" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tranbinhminh2110&show_icons=true&locale=en" alt="tranbinhminh2110" /></p>
+
+
 
 
